@@ -7,13 +7,13 @@ Dokumen ini berisi langkah-langkah untuk melakukan pull request pertama kali pad
 ### **1. Clone Repository ke Lokal**
 **Jalankan perintah berikut untuk meng-clone repository ke komputer lokal:**
 ```sh
-git clone https://github.com/Juethro/itfin-experts.git
+git clone https://github.com/aryadgsp/technical-test.git
 ```
 
 ### **2. Masuk ke Direktori Repository**
 **Navigasikan ke direktori repository Laravel yang telah di-clone:**
 ```sh
-cd itfin-experts
+cd technical-test
 ```
 
 ### **3. Install Dependensi dengan Composer**
